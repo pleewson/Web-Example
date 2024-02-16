@@ -10,7 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6258a43f-91d6-4744-8feb-7de2eefc7052" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/Servlet14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/Get2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/Get3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/Get4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +81,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.85">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.web.test" />
+      <module name="Web-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.85" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.85" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
@@ -167,6 +183,11 @@
         </option>
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -182,7 +203,7 @@
       <workItem from="1707813982925" duration="555000" />
       <workItem from="1707814757124" duration="5387000" />
       <workItem from="1708037569427" duration="1738000" />
-      <workItem from="1708045993068" duration="3688000" />
+      <workItem from="1708045993068" duration="9218000" />
     </task>
     <servers />
   </component>
