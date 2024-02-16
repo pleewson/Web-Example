@@ -6,13 +6,12 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.time.LocalTime;
 
-@WebServlet("/servlet13")
-public class Servlet13 extends HttpServlet {
+@WebServlet("/servlet14")
+public class Servlet14 extends HttpServlet {
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        response.getWriter().append(LocalTime.now().toString());
+        response.getWriter().append(request.getHeader("User-Agent")).append('\n');
+        response.getWriter().append(request.getRemoteAddr());
+
     }
-
-
 }
