@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public class Servlet12 extends HttpServlet {
 
-    public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException{
+    public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.getWriter().append("Content12");
     }
 
