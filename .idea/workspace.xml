@@ -10,13 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6258a43f-91d6-4744-8feb-7de2eefc7052" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/Redirect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Servlet11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/Servlet11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Servlet12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/Servlet12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Servlet13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/Servlet13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +182,7 @@
       <workItem from="1707813982925" duration="555000" />
       <workItem from="1707814757124" duration="5387000" />
       <workItem from="1708037569427" duration="1738000" />
-      <workItem from="1708045993068" duration="2428000" />
+      <workItem from="1708045993068" duration="3043000" />
     </task>
     <servers />
   </component>
