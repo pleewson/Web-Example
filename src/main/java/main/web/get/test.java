@@ -1,4 +1,4 @@
-package main.web;
+package main.web.get;
 
 public class test {
     public static void main(String[] args) {

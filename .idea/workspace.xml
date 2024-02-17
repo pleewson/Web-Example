@@ -10,11 +10,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6258a43f-91d6-4744-8feb-7de2eefc7052" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/Get2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/Get3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/Get4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/post/Cookie3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/post/Form3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/post/Form4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/session/Session3Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/session/Session3All.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/cookie3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/form3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/form4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/sesion3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Get1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Get1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Get2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Get2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Get3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Get3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Get4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Get4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Redirect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Redirect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Servlet11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Servlet11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Servlet12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Servlet12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Servlet13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Servlet13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Servlet14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Servlet14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +41,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -52,26 +68,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
       <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src/main/java/webapp" />
@@ -83,11 +100,11 @@
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.85">
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.web.test" />
+      <option name="MAIN_CLASS_NAME" value="main.web.get.test" />
       <module name="Web-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.web.*" />
+          <option name="PATTERN" value="main.web.get.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,10 +221,22 @@
       <workItem from="1707814757124" duration="5387000" />
       <workItem from="1708037569427" duration="1738000" />
       <workItem from="1708045993068" duration="9218000" />
+      <workItem from="1708158393722" duration="6941000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/main/web/post/Cookie3.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
