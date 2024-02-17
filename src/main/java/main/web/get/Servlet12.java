@@ -1,4 +1,4 @@
-package main.web;
+package main.web.get;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

@@ -10,7 +10,7 @@
 
    <servlet>
        <servlet-name>Servlet12</servlet-name>
-       <servlet-class>main.web.Servlet12</servlet-class>
+       <servlet-class>main.web.get.Servlet12</servlet-class>
    </servlet>
 
     <servlet-mapping>
