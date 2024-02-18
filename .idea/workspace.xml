@@ -10,27 +10,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6258a43f-91d6-4744-8feb-7de2eefc7052" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/post/Cookie3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/post/Form3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/post/Form4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/session/Session3Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/session/Session3All.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/cookie3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/form3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/form4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/sesion3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/filter/LogUserAgentAndProcessingTimeFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/filter/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/filter/SetUtf8EncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/mvc/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/mvc/mvc13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/third.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/session.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Get1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Get1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Get2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Get2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Get3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Get3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Get4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Get4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Redirect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Redirect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Servlet11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Servlet11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Servlet12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Servlet12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Servlet13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Servlet13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/Servlet14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Servlet14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/session/Session3Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/session/Session3Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/sesion3.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +34,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -88,8 +82,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/webapp" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
       <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src/main/java/webapp" />
       <recent name="$PROJECT_DIR$/src/main/java/main" />
@@ -97,8 +91,24 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.web.filter" />
+    </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.85">
+    <configuration name="main.web.post.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.web.post.test" />
+      <module name="Web-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.web.post.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.web.get.test" />
       <module name="Web-Example" />
@@ -202,6 +212,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main.web.post.test" />
         <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
@@ -222,6 +233,8 @@
       <workItem from="1708037569427" duration="1738000" />
       <workItem from="1708045993068" duration="9218000" />
       <workItem from="1708158393722" duration="6941000" />
+      <workItem from="1708208232968" duration="12013000" />
+      <workItem from="1708271271455" duration="781000" />
     </task>
     <servers />
   </component>
@@ -232,9 +245,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/main/web/post/Cookie3.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp3.jsp</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/main/web/mvc/mvc13.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
