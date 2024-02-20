@@ -10,21 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6258a43f-91d6-4744-8feb-7de2eefc7052" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/filter/LogUserAgentAndProcessingTimeFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/filter/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/filter/SetUtf8EncodingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/mvc/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/mvc/mvc13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp3.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/result.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/third.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/session.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/post/Form1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/form1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/session/Session3Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/session/Session3Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/sesion3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/get/Get2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Get2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/get/Get4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/get/Get4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -234,7 +225,9 @@
       <workItem from="1708045993068" duration="9218000" />
       <workItem from="1708158393722" duration="6941000" />
       <workItem from="1708208232968" duration="12013000" />
-      <workItem from="1708271271455" duration="781000" />
+      <workItem from="1708271271455" duration="1590000" />
+      <workItem from="1708381291066" duration="3000" />
+      <workItem from="1708463012261" duration="3235000" />
     </task>
     <servers />
   </component>
