@@ -15,8 +15,7 @@ public class Form3 extends HttpServlet {
         for (int i = 1; i <= num; i++){
             if(num % i == 0){
                 response.getWriter().print(i + " ");
-
-                //fd
+                //fd2
             }
         }
     }
