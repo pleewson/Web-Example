@@ -1,4 +1,4 @@
-package main.web.post;
+package main.web.cookie;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

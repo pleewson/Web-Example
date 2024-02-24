@@ -10,10 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6258a43f-91d6-4744-8feb-7de2eefc7052" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/post/Censor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/post/Form33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/post/Form5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/form33.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/form5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/post/Form2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/post/Form2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/form2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/form2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +91,7 @@
       <module name="Web-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.web.post.*" />
+          <option name="PATTERN" value="main.web.mvc.cookie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,7 +228,8 @@
       <workItem from="1708381291066" duration="3000" />
       <workItem from="1708463012261" duration="3235000" />
       <workItem from="1708555570653" duration="630000" />
-      <workItem from="1708728802539" duration="3297000" />
+      <workItem from="1708728802539" duration="3718000" />
+      <workItem from="1708769747639" duration="3271000" />
     </task>
     <servers />
   </component>
