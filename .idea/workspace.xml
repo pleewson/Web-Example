@@ -10,13 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6258a43f-91d6-4744-8feb-7de2eefc7052" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/cookie/Cookie1Del.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/cookie/Cookie1Get.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/cookie/Cookie1Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/cookie/Cookie4Del.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/cookie/Cookie4Show.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/cookie/Cookie51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/cookie/Cookie52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/session/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/session/Session4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/session/Session5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/session4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main.web.session.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.web.session.test" />
+      <module name="Web-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.web.session.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.web.get.test" />
       <module name="Web-Example" />
@@ -116,7 +127,6 @@
       </method>
     </configuration>
     <configuration name="Tomcat 9.0.85" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.85" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
@@ -205,12 +215,14 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.main.web.session.test" />
       <item itemvalue="Application.main.web.post.test" />
       <item itemvalue="Application.test" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.85" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main.web.session.test" />
         <item itemvalue="Application.main.web.post.test" />
         <item itemvalue="Application.test" />
       </list>
@@ -238,7 +250,7 @@
       <workItem from="1708463012261" duration="3235000" />
       <workItem from="1708555570653" duration="630000" />
       <workItem from="1708728802539" duration="3718000" />
-      <workItem from="1708769747639" duration="8909000" />
+      <workItem from="1708769747639" duration="21342000" />
     </task>
     <servers />
   </component>
@@ -271,6 +283,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/main/web/session/Session2.java</url>
+          <line>20</line>
+          <properties class="main.web.session.Session2" method="doGet">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/main/web/session/Session4.java</url>
+          <line>16</line>
+          <properties class="main.web.session.Session4" method="doPost">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
