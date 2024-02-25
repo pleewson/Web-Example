@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="servlet31" method="post">
+    <fieldset>
+        <legend>Enter amount of currency that you want change:</legend>
+
+        <div>
+            <label>
+                <input type="number" name="ammount">
+            </label>
+        </div>
+
+        <div>
+            <input type="radio" id="EUR_USD" name="convert" value="EUR_USD" checked />
+            <label for="EUR_USD">EUR → USD</label>
+        </div>
+
+        <div>
+            <input type="radio" id="USD_EUR" name="convert" value="USD_EUR" />
+            <label for="USD_EUR">USD → EUR</label>
+        </div>
+
+        <div>
+            <input type="radio" id="EUR_PLN" name="convert" value="EUR_PLN" />
+            <label for="EUR_PLN">EUR → PLN</label>
+        </div>
+
+        <div>
+            <input type="radio" id="PLN_EUR" name="convert" value="PLN_EUR" />
+            <label for="PLN_EUR">PLN → EUR</label>
+        </div>
+
+        <div>
+            <input type="radio" id="USD_PLN" name="convert" value="USD_PLN" />
+            <label for="USD_PLN">USD → PLN</label>
+        </div>
+
+        <div>
+            <input type="radio" id="PLN_USD" name="convert" value="PLN_USD" />
+            <label for="PLN_USD">PLN → USD</label>
+        </div>
+
+        <div>
+            <input type="submit">
+        </div>
+    </fieldset>
+</form>
+</body>
+</html>
+
+
