@@ -11,6 +11,8 @@
     <title>jsp1</title>
 </head>
 <body>
-$(
+<p>${param.km}</p>
+<c:out value="$param.km"></c:out>
+<%Double kmToMiles = Double.parseDouble(request.getParameter("km")) * 0.62; %>
 </body>
 </html>
