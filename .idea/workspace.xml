@@ -10,18 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6258a43f-91d6-4744-8feb-7de2eefc7052" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/jspServlety/jspservlet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/jspServlety/jspservlet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/jspServlety/jspservlet3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/jspServlety/jspservlet4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fourth.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/third3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/mvc/Book7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/mvc/mvc12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/mvc/mvc7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp7.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/result7.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp1.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +28,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -273,7 +269,7 @@
       <workItem from="1708555570653" duration="630000" />
       <workItem from="1708728802539" duration="3718000" />
       <workItem from="1708769747639" duration="41581000" />
-      <workItem from="1708972052409" duration="726000" />
+      <workItem from="1708972052409" duration="6086000" />
     </task>
     <servers />
   </component>
@@ -302,6 +298,11 @@
           <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/fourth4.jsp</url>
           <line>20</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/main/web/mvc/mvc7.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/main/web/cookie/Cookie4Show.java</url>
