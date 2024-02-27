@@ -10,10 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6258a43f-91d6-4744-8feb-7de2eefc7052" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/mvc/mvc14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resultList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/filter/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/filter/AuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/filter/Logut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/admin.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/mvc/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/mvc/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/filter/LogUserAgentAndProcessingTimeFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/filter/LogUserAgentAndProcessingTimeFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/web/filter/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/web/filter/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/login.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +28,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -265,7 +269,7 @@
       <workItem from="1708555570653" duration="630000" />
       <workItem from="1708728802539" duration="3718000" />
       <workItem from="1708769747639" duration="41581000" />
-      <workItem from="1708972052409" duration="6868000" />
+      <workItem from="1708972052409" duration="11855000" />
     </task>
     <servers />
   </component>
@@ -299,6 +303,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/main/web/mvc/mvc7.java</url>
           <line>18</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/main/web/filter/Login.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/main/web/filter/AuthFilter.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/main/web/cookie/Cookie4Show.java</url>

@@ -10,9 +10,13 @@ import java.io.IOException;
 public class LogUserAgentAndProcessingTimeFilter implements Filter {
     @Override
     public void doFilter(ServletRequest servletRequest, ServletResponse servletResponse, FilterChain filterChain) throws IOException, ServletException {
-        String userAgent = ((HttpServletRequest) servletRequest).getHeader("User-Agent");
-        System.out.println("LogUserAgentAndProcessingTimeFilter userAgent : " + userAgent);
-        filterChain.doFilter(servletRequest, servletResponse);
+        String header = ((HttpServletRequest) servletRequest).getHeader("User-Agent");
 
+        long startTime = System.currentTimeMillis();
+        filterChain.doFilter(servletRequest, servletResponse);
+        long endTime = System.currentTimeMillis();
+        long difference = startTime - endTime;
+
+        System.out.println("User-Agent: " + header + " filtration time -> " + difference);
     }
 }
