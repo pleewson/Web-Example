@@ -10,10 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6258a43f-91d6-4744-8feb-7de2eefc7052" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/servlet/Servlet311.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/servlet/Servlet312.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index42.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/cookie/Cookie36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/web/servlet/Servlet35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/servlet35.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -268,6 +267,8 @@
       <workItem from="1708769747639" duration="41581000" />
       <workItem from="1708972052409" duration="13007000" />
       <workItem from="1709027921052" duration="3531000" />
+      <workItem from="1709039453583" duration="32000" />
+      <workItem from="1709244003691" duration="3051000" />
     </task>
     <servers />
   </component>
@@ -316,6 +317,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/main/web/servlet/Servlet312.java</url>
           <line>14</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/main/web/cookie/Cookie36.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/main/web/cookie/Cookie4Show.java</url>
